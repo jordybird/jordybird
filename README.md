@@ -23,7 +23,7 @@ Hey, I’m Jordan. I build high-performance products end to end with a focus on 
 
 ## **⭐ Featured Work**
 
-### **[Nbound](https://nbound.io) — AI-Powered Field Management for Home Service Businesses
+### [Nbound](https://nbound.io) — AI-Powered Field Management for Home Service Businesses
 A unified platform that combines telephony, scheduling, team coordination, and real-time notifications into one operational system.
 
 AI Telephony & Lead Capture
