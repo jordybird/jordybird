@@ -23,6 +23,21 @@ Hey, I’m Jordan. I build high-performance products end to end with a focus on 
 
 ## **⭐ Featured Work**
 
+### **[Nbound](https://nbound.io) — AI-Powered Field Management for Home Service Businesses
+A unified platform that combines telephony, scheduling, team coordination, and real-time notifications into one operational system.
+
+AI Telephony & Lead Capture
+Automated inbound call handling with Retell AI, including lead qualification, appointment booking, and SMS follow-ups, enabling businesses to capture every customer interaction.
+
+Real-Time Field Management
+Live dashboards for technicians, dispatchers, and office staff, with real-time updates on appointments, team availability, and customer communications.
+
+Team Collaboration & Notifications
+Robust system for adding team members, assigning tasks, and receiving instant alerts for new leads, messages, or operational changes.
+
+Full-Stack Platform
+Built with Next.js, Supabase, and PostgreSQL for fast, scalable data flows; polished React/Tailwind interfaces provide a clean, responsive experience for both managers and field staff.
+
 ### **[Aveler](https://flyaveler.com) — Private Aviation Marketplace / Operator OS and Bank-Level Fintech Layer**  
 A complete operating system for private aviation built end to end.  
 Includes traveler booking flows, operator dashboards, quoting engines, and a custom financial stack that supports ACH transfers, wire transfers, international wires, escrow logic, payment intents, audit-safe ledgers, and secure KYC for both travelers and operators.
